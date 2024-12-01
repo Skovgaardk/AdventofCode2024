@@ -1,0 +1,27 @@
+﻿# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]eploy/
+[Dd]ebugSymbols/
+
+# User-specific files
+.vs/
+.idea/
+.vscode/
+
+# OS-specific files
+Thumbs.db
+Desktop.ini
+
+# JetBrains Rider files
+.idea/
+
+# Logs
+*.log
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
