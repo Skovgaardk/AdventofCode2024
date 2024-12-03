@@ -1082,3 +1082,6 @@ tags
 # Persistent undo
 [._]*.un~
 
+
+# Input files
+**/input.txt
