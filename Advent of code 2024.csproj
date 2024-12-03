@@ -26,7 +26,16 @@
       <None Update="day 2\input.txt">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </None>
+      <None Update="day 3\input.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
     </ItemGroup>
+
+
+
+
+
+
 
 
 
