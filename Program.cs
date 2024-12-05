@@ -2,6 +2,7 @@
 using AdventOfCode.Day2;
 using AdventOfCode.Day3;
 using AdventOfCode.Day4;
+using AdventOfCode.Day5;
 
 namespace Advent_of_code_2024;
 
@@ -25,6 +26,9 @@ public class Program
                 break;
             case "4":
                 new Day4().Run();
+                break;
+            case "5":
+                new Day5().Run();
                 break;
             
             default:
